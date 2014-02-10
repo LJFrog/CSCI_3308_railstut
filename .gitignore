@@ -21,6 +21,6 @@ doc/
 *.swp
 *~
 .project
-.DS_Store
+.DS_Storeg
 .idea
 .secret
